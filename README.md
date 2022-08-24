@@ -1,1 +1,1 @@
-# citas_react_vite
+# Proyecto Administración de Pacientes Veterinaria
